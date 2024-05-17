@@ -1,0 +1,1086 @@
+[
+    {
+        "id": 1,
+        "title": "Protector Solar FPS 50+",
+        "description": "Protección solar avanzada para tu piel.",
+        "price": 299.99,
+        "stock": 50,
+        "brand": "Nivea",
+        "category": "Protector solar",
+        "images": [
+            "https://www.casaflorian.com.ar/wp-content/uploads/2019/12/270-844-01_A-510x510.jpg",
+            "https://images-us.nivea.com/-/media/miscellaneous/media-center-items/f/3/6/35d5d1d59be845b783f15564c654d81b-screen.webp?mw=640&hash=05C208353553DD7843C9255B07F74E58.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Protector Solar Facial Matte",
+        "description": "Protección solar con acabado mate para el rostro.",
+        "price": 199.50,
+        "stock": 30,
+        "brand": "Eucerin",
+        "category": "Protector solar",
+        "images": [
+            "https://images-us.eucerin.com/~/media/eucerin%20relaunch%20media/eucerin/local/latam/sales%20visuals/proteccion%20solar/2023/sun%20face%20oil%20control%20fps50/69767%20%20eucerin%20sun%20face%20gel%20cream%20oil%20control%20fps50%20%2050ml%20%20envase.png?rx=0&ry=0&rw=2000&rh=2000&hash=2181CD2EB8C7A9D9614677A375C86ED6.jpg",
+            "https://images-1.eucerin.com/~/media/eucerin/local/ar/products/sensitive-skin/mati.png?h=205&mw=290&w=290&rh=0&devicepixelratio=2&hash=FE7CF33FB72E49DEB6E9CD300F24A0CD"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Protector Solar Infantil FPS 50",
+        "description": "Especialmente formulado para la piel delicada de los niños.",
+        "price": 149.99,
+        "stock": 20,
+        "brand": "La Roche-Posay",
+        "category": "Protector solar",
+        "images": [
+            "https://www.laroche-posay.com.ar/-/media/project/loreal/brand-sites/lrp/america/latam/products/anthelios/anthelios-dermo-pediatrics-ecotube/larocheposayproductsunantheliosecoconscioushydratinglotiondpspf503337875550628frontstrongshadow-1.png"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Protector Solar Deportivo Resistente al Agua",
+        "description": "Protección solar duradera para actividades al aire libre.",
+        "price": 249.75,
+        "stock": 15,
+        "brand": "Bioderma",
+        "category": "Protector solar",
+        "images": [
+            "https://hips.hearstapps.com/hmg-prod/images/bioderma-1651937379.jpg?crop=1xw:1xh;center,top&resize=640:*"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Protector Solar Orgánico FPS 50",
+        "description": "Protección solar natural y amigable con el medio ambiente.",
+        "price": 349.00,
+        "stock": 25,
+        "brand": "Acofarderm",
+        "category": "Protector solar",
+        "images": [
+            "https://public-storage-cdn-farmapremium.imgix.net/contents/a433c2ee44f67083a8967d9ac7b474635a169522.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Gel Limpiador Facial Hidratante",
+        "description": "Limpieza profunda con aporte de hidratación para la piel.",
+        "price": 179.99,
+        "stock": 40,
+        "brand": "Neutrogena",
+        "category": "Limpiadores faciales",
+        "images": [
+            "https://www.farmacialeloir.com.ar/img/articulos/2023/02/neutrogena_deep_clean_gel_limpiador_facial_imagen1.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Agua Micelar Desmaquillante",
+        "description": "Elimina impurezas y maquillaje sin irritar la piel.",
+        "price": 129.50,
+        "stock": 35,
+        "brand": "Bioderma",
+        "category": "Limpiadores faciales",
+        "images": [
+            "https://www.farmacialeloir.com.ar/img/articulos/2021/06/bioderma_sensibio_h2o_solucion_micelar_2_imagen3.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Exfoliante Facial Suave",
+        "description": "Elimina células muertas para una piel más suave y radiante.",
+        "price": 189.99,
+        "stock": 25,
+        "brand": "L'Oreal",
+        "category": "Limpiadores faciales",
+        "images": [
+            "https://www.pluricosmetica.com/media/produtos/cache/138282_2_3bacb-500_500.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Leche Limpiadora Calmante",
+        "description": "Limpieza suave para pieles sensibles con propiedades calmantes.",
+        "price": 219.75,
+        "stock": 20,
+        "brand": "Avene",
+        "category": "Limpiadores faciales",
+        "images": [
+            "https://www.paradineirofarmacias.com.ar/media/catalog/product/7/7/7798095410363_19.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=700&canvas=700:560"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Toallitas Desmaquillantes Biodegradables",
+        "description": "Prácticas toallitas que limpian y desmaquillan de manera eco-amigable.",
+        "price": 149.00,
+        "stock": 30,
+        "brand": "Garnier",
+        "category": "Limpiadores faciales",
+        "images": [
+            "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd9558b6c/images/large/3600541574526_1.jpg?sw=1000&sh=1000"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Exfoliante Corporal de Sal Marina",
+        "description": "Renueva la piel eliminando impurezas con sales marinas naturales.",
+        "price": 249.99,
+        "stock": 35,
+        "brand": "The Body Shop",
+        "category": "Limpiadores corporales",
+        "images": [
+            "https://i.ebayimg.com/thumbs/images/g/InwAAOSwElVlDquB/s-l640.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Gel Exfoliante Energizante",
+        "description": "Exfoliación suave con fragancia revitalizante para el cuerpo.",
+        "price": 179.50,
+        "stock": 30,
+        "brand": "Dove",
+        "category": "Limpiadores corporales",
+        "images": [
+            "https://supermercadosnacional.com/media/catalog/product/cache/fde49a4ea9a339628caa0bc56aea00ff/2/1/2147892-1.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Jabón Líquido en Gel",
+        "description": "Estimula la circulación y suaviza la piel con frambuesa y pimienta rosa.",
+        "price": 199.99,
+        "stock": 25,
+        "brand": "Natura",
+        "category": "Limpiadores corporales",
+        "images": [
+            "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw13f841da/NATARG-5852_1.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Exfoliante Corporal de Azúcar y Coco",
+        "description": "Hidratación profunda con exfoliación suave de azúcar y coco.",
+        "price": 219.75,
+        "stock": 20,
+        "brand": "Bath & Body Works",
+        "category": "Limpiadores corporales",
+        "images": [
+            "https://bathbodymx.vteximg.com.br/arquivos/ids/166718-400-540/26535119-1.jpg?v=638089115956070000"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Jabón Antibacterial",
+        "description": "Renovación celular con partículas exfoliantes suaves.",
+        "price": 189.00,
+        "stock": 15,
+        "brand": "Dove",
+        "category": "Limpiadores corporales",
+        "images": [
+            "https://cdn.batitienda.com/baticloud/images/product_ff0475dc936d49e48b607aad8c4fdc55_637463034966685588_0_m.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Crema Hidratante Intensiva",
+        "description": "Fórmula rica en nutrientes para una hidratación profunda y duradera.",
+        "price": 299.99,
+        "stock": 40,
+        "brand": "La Mer",
+        "category": "Hidratantes faciales",
+        "images": [
+            "https://www.perfumeriajulia.es/52751-medium_default/la-mer-creme.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Gel Hidratante Matificante",
+        "description": "Textura ligera que controla el brillo y mantiene la piel hidratada todo el día.",
+        "price": 199.50,
+        "stock": 35,
+        "brand": "Clinique",
+        "category": "Hidratantes faciales",
+        "images": [
+            "https://static.sweetcare.pt/img/prd/488/v-638200520505604309/clinique-001049cq_01.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Hidratante Facial con SPF 30",
+        "description": "Protección solar y humectación diaria para una piel radiante y protegida.",
+        "price": 149.99,
+        "stock": 25,
+        "brand": "Vichy",
+        "category": "Hidratantes faciales",
+        "images": [
+            "https://farmaciadelpuebloar.vtexassets.com/arquivos/ids/172070-800-800?v=638411068689000000&width=800&height=800&aspect=true"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Crema Hidratante Antiedad",
+        "description": "Combate los signos del envejecimiento mientras mantiene la piel suave e hidratada.",
+        "price": 249.75,
+        "stock": 20,
+        "brand": "Estée Lauder",
+        "category": "Hidratantes faciales",
+        "images": [
+            "https://e00-telva.uecdn.es/albumes/2016/01/18/cremas-antiarrugas-efectivas-belleza/1915545904_extras_albumes_0_movil.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Mascarilla Hidratante Nocturna",
+        "description": "Tratamiento intensivo mientras duermes para despertar con una piel revitalizada.",
+        "price": 349.00,
+        "stock": 30,
+        "brand": "Kiehl's",
+        "category": "Hidratantes faciales",
+        "images": [
+            "https://kiehls.com.ar/dw/image/v2/AATL_PRD/on/demandware.static/-/Sites-kiehls-master-catalog/default/dw46217a7f/nextgen/skin-care/face-masks/ginger-leaf-and-hibiscus-firming-mask/ginger-leaf-and-hibiscus-firming-mask/kiehls-face-mask-ginger-leaf-hibiscus-firming-mask-100ml-000-3605971634901-whip.jpg?sw=465&sh=465&sm=cut&sfrm=png&q=70"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Sérum Reafirmante de Ácido Hialurónico",
+        "description": "Fórmula avanzada que proporciona hidratación profunda y mejora la elasticidad de la piel.",
+        "price": 299.99,
+        "stock": 40,
+        "brand": "L'Oreal",
+        "category": "Sérum facial",
+        "images": [
+            "https://elbloquear.vtexassets.com/arquivos/ids/159733-800-auto?v=637870979716770000&width=800&height=auto&aspect=true",
+            "https://farmaciasdelpueblo.vteximg.com.br/arquivos/ids/160928/Imagen.jpg?v=637338866251000000"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Sérum Iluminador Antimanchas",
+        "description": "Reduce las manchas oscuras y unifica el tono de la piel para un rostro radiante.",
+        "price": 199.50,
+        "stock": 35,
+        "brand": "La Roche-Posay",
+        "category": "Sérum facial",
+        "images": [
+            "https://farmaciadelsiglo.com.ar/wp-content/uploads/sites/4/2023/03/la_roche_posay_pure_niacinamide_10_serum_imagen1.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Sérum Antiedad con Vitamina C",
+        "description": "Combate los signos del envejecimiento, dejando la piel más firme y luminosa.",
+        "price": 149.99,
+        "stock": 25,
+        "brand": "Estée Lauder",
+        "category": "Sérum facial",
+        "images": [
+            "https://www.bovens.org/wp-content/uploads/2020/12/serum-estee-lauder.jpg"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Sérum Calmante para Pieles Sensibles",
+        "description": "Fórmula suave que alivia la irritación y nutre la piel delicada.",
+        "price": 249.75,
+        "stock": 20,
+        "brand": "Avene",
+        "category": "Sérum facial",
+        "images": [
+            "https://static.beautytocare.com/media/catalog/product/a/v/avene-hydrance-boost-concentrated-hydrating-serum-30ml.jpg"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Sérum Hidratante con Ácido Hialurónico",
+        "description": "Aporta una hidratación intensiva, dejando la piel suave y rejuvenecida.",
+        "price": 189.00,
+        "stock": 30,
+        "brand": "Neutrogena",
+        "category": "Sérum facial",
+        "images": [
+            "https://www.neutrogena.com.ar/sites/neutrogena_ar/files/product-images/packs_3.jpg"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Champú Hidratante con Aceite de Argán",
+        "description": "Fórmula enriquecida que limpia suavemente e hidrata el cabello, dejándolo sedoso y brillante.",
+        "price": 29.99,
+        "stock": 40,
+        "brand": "Pantene",
+        "category": "Champús",
+        "images": [
+            "https://www.farmaciassanchezantoniolli.com.ar/2974-medium_default/shampoo-pantene-pro-v-hidratacion-200-ml.jpg"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Champú Voluminizador de Biotina",
+        "description": "Aumenta el volumen y fortalece el cabello, dejándolo con un aspecto más completo y saludable.",
+        "price": 24.50,
+        "stock": 35,
+        "brand": "thick & full",
+        "category": "Champús",
+        "images": [
+            "https://www.lafranco.com.ar/8081-large_default/shampoo-biotina-y-colageno-brillo-mas-volumen-385ml.jpg"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Champú Anticaspa con Aceite de Árbol de Té",
+        "description": "Elimina la caspa y alivia el cuero cabelludo, dejando el cabello limpio y fresco.",
+        "price": 19.99,
+        "stock": 25,
+        "brand": "Head & Shoulders",
+        "category": "Champús",
+        "images": [
+            "https://images.ctfassets.net/qasoharq4w94/2Y7H9nRGW2HFMjxmd7Si6l/1764193a842c7d367a08afe5927e61a1/HeadShoulders_2in1_TeaTreeOil_front.png"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Champú Reparador para Cabello Dañado",
+        "description": "Repara y fortalece el cabello dañado, restaurando su salud y brillo natural.",
+        "price": 34.75,
+        "stock": 20,
+        "brand": "Dove",
+        "category": "Champús",
+        "images": [
+            "https://www.farmaciassanchezantoniolli.com.ar/392-medium_default/shampoo-dove-reconstruccion-completa-400-ml.jpg"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Champú Sin Sulfatos para Cabello Teñido",
+        "description": "Limpieza suave sin sulfatos, protegiendo el color del cabello teñido y manteniéndolo vibrante.",
+        "price": 39.00,
+        "stock": 30,
+        "brand": "L'Oreal",
+        "category": "Champús",
+        "images": [
+            "https://dojiw2m9tvv09.cloudfront.net/55959/product/0006705-shampoo-profesional-sin-sulfatos-para-cabellos-danados-absolut-repair-molecular-300ml2897.jpeg"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Acondicionador Reparador Intensivo",
+        "description": "Fórmula rica que hidrata y repara el cabello seco y dañado, dejándolo suave y manejable.",
+        "price": 29.99,
+        "stock": 40,
+        "brand": "Garnier",
+        "category": "Acondicionadores",
+        "images": [
+            "https://www.garnier.com.ar/-/media/project/loreal/brand-sites/garnier/usa/ar/es-ar/prd-haircare/recarga-nutritiva/acondicionador/rutina-aco-190x260/aco-(1).jpg?rev=633c800646714c8fbb231cac2981cba9"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Acondicionador Voluminizador de Colágeno",
+        "description": "Aporta volumen y cuerpo al cabello fino, mejorando su textura y brillo.",
+        "price": 24.50,
+        "stock": 35,
+        "brand": "Tresemmé",
+        "category": "Acondicionadores",
+        "images": [
+            "https://itengoo.com/wp-content/uploads/2020/02/bf35ffb0-8bbf-412f-a9bc-4394f4b09496_1.2287ac0ac7b641690e5ec93e3034c425-scaled-e1582202957607.jpeg"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Acondicionador Nutritivo con Aceite de Coco",
+        "description": "Nutre y suaviza el cabello, dejándolo con un aroma delicioso a coco.",
+        "price": 19.99,
+        "stock": 25,
+        "brand": "Herbal Essences",
+        "category": "Acondicionadores",
+        "images": [
+            "https://simplicityar.vtexassets.com/arquivos/ids/157188-800-auto?v=638198474069000000&width=800&height=auto&aspect=true"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Acondicionador Desenredante para Cabello Largo",
+        "description": "Facilita el peinado y desenreda el cabello largo, dejándolo suave y sin nudos.",
+        "price": 34.75,
+        "stock": 20,
+        "brand": "Pantene",
+        "category": "Acondicionadores",
+        "images": [
+            "https://images.ctfassets.net/r22v2vd8bb1u/3WYh8TxRqEqyJItM6CZA28/2162d17b3bb8a7903e4eb8be332d385a/00080878180936_C1N1_dt.jpg"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Acondicionador Sin Siliconas para Cabello Teñido",
+        "description": "Hidratación sin siliconas, preservando el color y la vitalidad del cabello teñido.",
+        "price": 39.00,
+        "stock": 30,
+        "brand": "L'Oreal",
+        "category": "Acondicionadores",
+        "images": [
+            "https://cdn11.bigcommerce.com/s-63354/images/stencil/1280x1280/products/5969/12497/Chocolate_Bronze_41__34417.1653994461.jpg?c=2"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Loción Hidratante de Aloe Vera",
+        "description": "Fórmula refrescante con aloe vera que hidrata y calma la piel, dejándola suave y nutrida.",
+        "price": 19.99,
+        "stock": 40,
+        "brand": "Nivea",
+        "category": "Hidratantes corporales",
+        "images": [
+            "https://images-us.nivea.com/-/media/miscellaneous/media-center-items/7/b/d/d6c99cbd42d543c28d0ec66c80cc12b9-screen.jpg"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Mantequilla Corporal de Karité",
+        "description": "Hidratación intensiva con manteca de karité, dejando la piel profundamente nutrida y suave.",
+        "price": 24.50,
+        "stock": 35,
+        "brand": "The Body Shop",
+        "category": "Hidratantes corporales",
+        "images": [
+            "https://m.media-amazon.com/images/I/811C-dwowlL._AC_UF1000,1000_QL80_.jpg"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Crema Hidratante para Pieles Secas",
+        "description": "Fórmula rica que combate la sequedad, proporcionando hidratación profunda y duradera.",
+        "price": 29.99,
+        "stock": 25,
+        "brand": "Dove",
+        "category": "Hidratantes corporales",
+        "images": [
+            "https://assets.unileversolutions.com/v1/81586863.jpg"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Aceite Corporal de Almendras Dulces",
+        "description": "Nutre y suaviza la piel con el poder hidratante de las almendras dulces, dejándola radiante.",
+        "price": 34.75,
+        "stock": 20,
+        "brand": "Eucerin",
+        "category": "Hidratantes corporales",
+        "images": [
+            "https://images-us.eucerin.com/~/media/eucerin%20relaunch%20media/eucerin/local/latam/packshot/ph5/63122_eucerin-ph5-aceite-de-ducha-400ml_packshot.jpg"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Loción Corporal Revitalizante con Vitamina E",
+        "description": "Revitaliza la piel con vitamina E, proporcionando una hidratación que dura todo el día.",
+        "price": 39.00,
+        "stock": 30,
+        "brand": "Aveeno",
+        "category": "Hidratantes corporales",
+        "images": [
+            "https://m.media-amazon.com/images/I/611Nhhp20pL.jpg"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Mascarilla Capilar Reparadora con Keratina",
+        "description": "Tratamiento intensivo que repara y fortalece el cabello, dejándolo suave y sedoso.",
+        "price": 29.99,
+        "stock": 40,
+        "brand": "L'Oreal",
+        "category": "Tratamientos capilares",
+        "images": [
+            "https://static.beautytocare.com/media/catalog/product/l/-/l-oreal-paris-elvive-total-repair-5-hair-mask-300ml.jpg"
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Aceite Capilar Nutritivo de Argán",
+        "description": "Nutre y revitaliza el cabello seco y dañado, aportando brillo y suavidad.",
+        "price": 24.50,
+        "stock": 35,
+        "brand": "Moroccanoil",
+        "category": "Tratamientos capilares",
+        "images": [
+            "https://www.druni.es/media/catalog/product/3/9/3903.jpg"
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Tratamiento Antifrizz con Aceite de Coco",
+        "description": "Controla el frizz y proporciona hidratación con el poder del aceite de coco.",
+        "price": 19.99,
+        "stock": 25,
+        "brand": "Garnier",
+        "category": "Tratamientos capilares",
+        "images": [
+            "https://m.media-amazon.com/images/I/71rFoSbBgXL._AC_UF1000,1000_QL80_.jpg"
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Máscara Capilar Reestructurante",
+        "description": "Fórmula que reconstruye y fortalece la fibra capilar, mejorando la salud del cabello.",
+        "price": 34.75,
+        "stock": 20,
+        "brand": "Kérastase",
+        "category": "Tratamientos capilares",
+        "images": [
+            "https://juleriaque.vtexassets.com/arquivos/ids/219464-800-800?v=638271184803470000&width=800&height=800&aspect=true"
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Tratamiento Intensivo para Cabello Teñido",
+        "description": "Protege y revitaliza el cabello teñido, manteniendo el color vibrante por más tiempo.",
+        "price": 39.00,
+        "stock": 30,
+        "brand": "Redken",
+        "category": "Tratamientos capilares",
+        "images": [
+            "https://www.redken-centroamerica.com/-/media/project/loreal/brand-sites/redken/americas/latam/product-information/product-images/haircare/color-extend-magnetics/redken-2020-color-extend-magnetics-conditioner-300ml-product-shot-1260x1600.jpg?rev=0768a165420c43fc97b3b6265f470c82"
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Mascarilla Facial Purificante de Arcilla",
+        "description": "Elimina impurezas y exceso de grasa, dejando la piel limpia y revitalizada.",
+        "price": 19.99,
+        "stock": 40,
+        "brand": "Freeman",
+        "category": "Mascarillas faciales",
+        "images": [
+            "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/fmn/fmn42378/y/18.jpg"
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Mascarilla Hidratante de Ácido Hialurónico",
+        "description": "Proporciona hidratación intensiva, dejando la piel suave, flexible y radiante.",
+        "price": 24.50,
+        "stock": 35,
+        "brand": "Glamglow",
+        "category": "Mascarillas faciales",
+        "images": [
+            "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1621872946-mascarilla-glamglow-1621872908.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Mascarilla Exfoliante con Enzimas de Frutas",
+        "description": "Exfoliación suave para una piel renovada y luminosa, gracias a las enzimas naturales.",
+        "price": 19.99,
+        "stock": 25,
+        "brand": "Origins",
+        "category": "Mascarillas faciales",
+        "images": [
+            "https://www.origins.eu/media/export/cms/products/600x600_gray/origins_sku_0Y9X01_600x600_gray_0.jpg"
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Mascarilla Calmante de Aloe Vera",
+        "description": "Alivia la piel irritada y sensible, proporcionando una sensación de frescura y calma.",
+        "price": 34.75,
+        "stock": 20,
+        "brand": "Kiehl's",
+        "category": "Mascarillas faciales",
+        "images": [
+            "https://www.kiehls.com.ar/dw/image/v2/AATL_PRD/on/demandware.static/-/Sites-kiehls-master-catalog/default/dw4b2f7dfe/nextgen/skin-care/face-masks/calendula/calendula-petal-infused-calming-mask/kiehls-calendula-petal-infused-calming-mask-100ml-000-3605972330383-whip.jpg?sw=465&sh=465&sm=cut&sfrm=jpg&q=70"
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Mascarilla Iluminadora con Vitamina C",
+        "description": "Revitaliza la piel apagada, aportando luminosidad y un tono uniforme.",
+        "price": 39.00,
+        "stock": 30,
+        "brand": "Garnier",
+        "category": "Mascarillas faciales",
+        "images": [
+            "https://i.pinimg.com/736x/8b/2d/27/8b2d27332e448b19600344c1afff8bde.jpg"
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Afeitadora Eléctrica de Doble Cabezal",
+        "description": "Diseño ergonómico para un afeitado suave y preciso, ideal para uso diario.",
+        "price": 79.99,
+        "stock": 40,
+        "brand": "Philips",
+        "category": "Afeitadoras",
+        "images": [
+            "https://chemesweb.com.ar/19392-large_default/afeitadora-philips-s546603.jpg"
+        ]
+    },
+    {
+        "id": 52,
+        "title": "Maquinilla de Afeitar Clásica de Acero Inoxidable",
+        "description": "Estilo vintage con cuchillas de precisión para un afeitado apurado y duradero.",
+        "price": 49.50,
+        "stock": 35,
+        "brand": "Merkur",
+        "category": "Afeitadoras",
+        "images": [
+            "https://m.media-amazon.com/images/I/61P8LuASBrL.jpg"
+        ]
+    },
+    {
+        "id": 53,
+        "title": "Afeitadora Recargable con Tecnología de Vibración",
+        "description": "Tecnología avanzada que se adapta a los contornos faciales, proporcionando un afeitado eficiente.",
+        "price": 99.99,
+        "stock": 25,
+        "brand": "Braun",
+        "category": "Afeitadoras",
+        "images": [
+            "https://m.media-amazon.com/images/I/81MV9FsynbL._SL1500_.jpg"
+        ]
+    },
+    {
+        "id": 54,
+        "title": "Máquina de Afeitar",
+        "description": "Con tecnología para piel suave, ayuda a protegerte frente a la irritación.",
+        "price": 69.75,
+        "stock": 20,
+        "brand": "Gillette",
+        "category": "Afeitadoras",
+        "images": [
+            "https://www.vassallo.com.ar/6966-large_default/maquina-de-afeitar-gillette-mach3-sensitive.jpg"
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Afeitadora Todo en Uno para Cabello y Barba",
+        "description": "Versátil y compacta, ideal para afeitar y dar forma a la barba y cabello.",
+        "price": 89.00,
+        "stock": 30,
+        "brand": "Panasonic",
+        "category": "Afeitadoras",
+        "images": [
+            "https://www.soscomputacion.com.ar/5648/afeitadora-panasonic-er2403-cortadora-pelo-barba-y-bigote.jpg"
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Bálsamo Labial Hidratante con Manteca de Karité",
+        "description": "Hidratación intensiva para labios secos, con manteca de karité para suavizar y proteger.",
+        "price": 7.99,
+        "stock": 40,
+        "brand": "Burt's Bees",
+        "category": "Cuidado de labios",
+        "images": [
+            "https://i5.walmartimages.com/seo/Burt-s-Bees-100-Natural-Moisturizing-Tinted-Lip-Balm-with-Shea-Butter-Rose-1-Count_0ecba15e-20f6-4ce3-9063-ac38e93f60ce.2640434a2939bf45960a57a09dcccd95.jpeg"
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Protector Labial con SPF 15",
+        "description": "Protección solar para labios con SPF 15, ideal para mantenerlos suaves y seguros bajo el sol.",
+        "price": 5.50,
+        "stock": 35,
+        "brand": "Neutrogena",
+        "category": "Cuidado de labios",
+        "images": [
+            "https://www.cellsii.com/images/detailed/26/Neutrogena-Lip-Moisturizer-Balm.jpg"
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Aceite Labial Nutritivo de Coco",
+        "description": "Nutre y suaviza los labios con aceite de coco, dejándolos con un aroma delicioso.",
+        "price": 8.99,
+        "stock": 25,
+        "brand": "EOS",
+        "category": "Cuidado de labios",
+        "images": [
+            "https://m.media-amazon.com/images/I/71ynYdy3SmL.jpg"
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Bálsamo Labial Tintado",
+        "description": "Aporta color y humedad a tus labios con un toque sutil de color.",
+        "price": 12.75,
+        "stock": 20,
+        "brand": "Maybelline",
+        "category": "Cuidado de labios",
+        "images": [
+            "https://www.maquillalia.com/images/productos/maybelline-green-edition-balsamo-labial-con-color-balmy-lip-blush-004-flare-3-73441.jpeg"
+        ]
+    },
+    {
+        "id": 60,
+        "title": "Exfoliante Labial de Azúcar y Miel",
+        "description": "Elimina células muertas y suaviza los labios con esta mezcla de azúcar y miel.",
+        "price": 9.00,
+        "stock": 30,
+        "brand": "Lush",
+        "category": "Cuidado de labios",
+        "images": [
+            "https://www.lush.cl/wp-content/uploads/2017/04/lip-scrub-honey.png"
+        ]
+    },
+    {
+        "id": 61,
+        "title": "Pasta Dental Blanqueadora con Carbón Activado",
+        "description": "Fórmula que combina el poder del carbón activado para blanquear los dientes y refrescar el aliento.",
+        "price": 6.99,
+        "stock": 40,
+        "brand": "Colgate",
+        "category": "Higiene bucal",
+        "images": [
+            "https://www.colgate.com/content/dam/cp-sites/oral-care/oral-care-center-relaunch/latam/product-detail-pages/2023/colgate-luminous-white-carbon-activado/colgate-luminous-white-carbon-activado-hero.jpg"
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Enjuague Bucal Antiplaca con Fluoruro",
+        "description": "Protección contra la placa y fortalecimiento del esmalte con fluoruro, para una boca saludable.",
+        "price": 8.50,
+        "stock": 35,
+        "brand": "Listerine",
+        "category": "Higiene bucal",
+        "images": [
+            "https://cdn.batitienda.com/baticloud/images/product_picture_b3c4871fb5dc44f1881677b441395c75_637873144475378932_0_m.jpg"
+        ]
+    },
+    {
+        "id": 63,
+        "title": "Cepillo Dental Eléctrico Recargable",
+        "description": "Cabezal giratorio y tecnología sónica para una limpieza profunda y efectiva de los dientes.",
+        "price": 29.99,
+        "stock": 25,
+        "brand": "Oral-B",
+        "category": "Higiene bucal",
+        "images": [
+            "https://www.anikashop.com.ar/product_images/h/415/411957-1600-1600__33126_zoom.jpg"
+        ]
+    },
+    {
+        "id": 64,
+        "title": "Hilo Dental con Sabor a Menta",
+        "description": "Filo dental suave y refrescante para una limpieza entre los dientes y encías.",
+        "price": 4.75,
+        "stock": 20,
+        "brand": "Glide",
+        "category": "Higiene bucal",
+        "images": [
+            "https://m.media-amazon.com/images/I/71MnXAnJlUL.jpg"
+        ]
+    },
+    {
+        "id": 65,
+        "title": "Gel para Encías Sensibles",
+        "description": "Alivio para encías sensibles con una fórmula suave y calmante para la higiene bucal diaria.",
+        "price": 11.00,
+        "stock": 30,
+        "brand": "Sensodyne",
+        "category": "Higiene bucal",
+        "images": [
+            "https://farmacityar.vtexassets.com/arquivos/ids/231372/222236_crema-de-dental-sensodyne-sensibilidad-y-encias-x-100-g_imagen-1.jpg?v=638034384610970000"
+        ]
+    },
+    {
+        "id": 66,
+        "title": "Perfume Floral Elegante",
+        "description": "Una fragancia floral con toques de rosa y jazmín, perfecta para mujeres que buscan elegancia.",
+        "price": 79.99,
+        "stock": 40,
+        "brand": "Chanel",
+        "category": "Fragancias",
+        "images": [
+            "https://media.vogue.mx/photos/606ee52759d9c11df252f823/master/w_1600%2Cc_limit/Perfume-chanel-chance-eau-fraiche-eau-de-toilette.jpg"
+        ]
+    },
+    {
+        "id": 67,
+        "title": "Colonia Fresca para Hombres",
+        "description": "Una colonia refrescante con notas cítricas y maderas, ideal para hombres activos y modernos.",
+        "price": 64.50,
+        "stock": 35,
+        "brand": "Dior",
+        "category": "Fragancias",
+        "images": [
+            "https://redcolon.com.ar/media/catalog/product/cache/6d0d0c64e65eeb0a50b5bdeed319dd62/3/3/3348901471534_l2h1gzq9wloz0i9c.jpg"
+        ]
+    },
+    {
+        "id": 68,
+        "title": "Perfume Unisex de Vainilla y Ámbar",
+        "description": "Fragancia cálida y seductora, perfecta para aquellos que buscan una opción unisex y encantadora.",
+        "price": 89.99,
+        "stock": 25,
+        "brand": "Tom Ford",
+        "category": "Fragancias",
+        "images": [
+            "https://piimages.parfumo.de/9/3/2367_bd587c5a51280c2ebbcc17017998661f_amber_absolute.jpg"
+        ]
+    },
+    {
+        "id": 69,
+        "title": "Eau de Parfum Clásico para Mujeres",
+        "description": "Una esencia atemporal con notas florales y amaderadas, diseñada para mujeres con estilo clásico.",
+        "price": 74.75,
+        "stock": 20,
+        "brand": "Gucci",
+        "category": "Fragancias",
+        "images": [
+            "https://static.beautytocare.com/media/catalog/product/g/u/gucci-guilty-eau-de-parfum-for-women-90ml.jpg"
+        ]
+    },
+    {
+        "id": 70,
+        "title": "Perfume Intenso para Hombres",
+        "description": "Fragancia intensa con notas de cuero y especias, perfecta para hombres con personalidad fuerte.",
+        "price": 99.00,
+        "stock": 30,
+        "brand": "Armani",
+        "category": "Fragancias",
+        "images": [
+            "https://acdn.mitiendanube.com/stores/001/926/604/products/acqua-di-gio-profumo1-a1eacb56d727b2396816742550500183-1024-1024.jpg"
+        ]
+    },
+    {
+        "id": 71,
+        "title": "Desodorante Roll-On para Mujeres",
+        "description": "Protección duradera contra el mal olor, con una fragancia floral delicada y fresca.",
+        "price": 5.99,
+        "stock": 40,
+        "brand": "Dove",
+        "category": "Desodorantes",
+        "images": [
+            "https://farmacityar.vtexassets.com/arquivos/ids/203818/46007_antitranspirante-femenino-dove-bolilla-original-x-50-ml_imagen-1.jpg?v=637377677861930000"
+        ]
+    },
+    {
+        "id": 72,
+        "title": "Desodorante en Aerosol para Hombres",
+        "description": "Fórmula eficaz contra el sudor y el olor, con una fragancia masculina y revitalizante.",
+        "price": 7.50,
+        "stock": 35,
+        "brand": "Old Spice",
+        "category": "Desodorantes",
+        "images": [
+            "https://jumboargentina.vtexassets.com/arquivos/ids/572337-800-600?v=637160374056100000&width=800&height=600&aspect=true"
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Desodorante Stick Unisex sin Fragancia",
+        "description": "Protección sin perfume, ideal para hombres y mujeres que prefieren desodorantes sin fragancia.",
+        "price": 8.99,
+        "stock": 25,
+        "brand": "Tom's of Maine",
+        "category": "Desodorantes",
+        "images": [
+            "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/tom/tom61425/y/9.jpg"
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Desodorante en Crema para Mujeres Sensibles",
+        "description": "Fórmula suave y sin aluminio para pieles sensibles, con una fragancia suave y calmante.",
+        "price": 10.75,
+        "stock": 20,
+        "brand": "Schmidt's",
+        "category": "Desodorantes",
+        "images": [
+            "https://schmidts-assets.nyc3.cdn.digitaloceanspaces.com/products/3.25_Deo_Elpis_RV_PDP_1000x1000.jpg"
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Desodorante en Spray Fresco y Neutro",
+        "description": "Protección duradera y frescura sin importar el género, con una fragancia neutra y refrescante.",
+        "price": 12.00,
+        "stock": 30,
+        "brand": "Secret",
+        "category": "Desodorantes",
+        "images": [
+            "https://elbloquear.vtexassets.com/arquivos/ids/162396-800-auto?v=637871002956570000&width=800&height=auto&aspect=true"
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Gotas Lubricantes para Ojos Secos",
+        "description": "Hidrata y alivia la sequedad ocular, proporcionando confort y claridad a la vista.",
+        "price": 9.99,
+        "stock": 40,
+        "brand": "Visine",
+        "category": "Cuidado de ojos",
+        "images": [
+            "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/vsn/vsn49376/y/4.jpg"
+        ]
+    },
+    {
+        "id": 77,
+        "title": "Crema Antiarrugas para Contorno de Ojos",
+        "description": "Fórmula rica en antioxidantes que reduce las arrugas y líneas finas alrededor de los ojos.",
+        "price": 24.50,
+        "stock": 35,
+        "brand": "Olay",
+        "category": "Cuidado de ojos",
+        "images": [
+            "https://www.druni.es/media/catalog/product/1/4/1452162.jpg"
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Colirio Antialérgico para Ojos Irritados",
+        "description": "Alivia la irritación y el enrojecimiento causados por alergias, proporcionando alivio rápido.",
+        "price": 14.99,
+        "stock": 25,
+        "brand": "Zaditor",
+        "category": "Cuidado de ojos",
+        "images": [
+            "https://pics.walgreens.com/prodimg/162607/900.jpg"
+        ]
+    },
+    {
+        "id": 79,
+        "title": "Mascarilla de Gel para Ojos Cansados",
+        "description": "Refresca y revitaliza la zona ocular, reduciendo la hinchazón y la fatiga visual.",
+        "price": 19.75,
+        "stock": 20,
+        "brand": "Bausch + Lomb",
+        "category": "Cuidado de ojos",
+        "images": [
+            "https://farmalista.es/wp-content/uploads/antifaz-de-gel-therapearl.jpg"
+        ]
+    },
+    {
+        "id": 80,
+        "title": "Serum Iluminador para Ojeras",
+        "description": "Combate las ojeras y la hinchazón, dejando la piel alrededor de los ojos más luminosa.",
+        "price": 29.00,
+        "stock": 30,
+        "brand": "Estée Lauder",
+        "category": "Cuidado de ojos",
+        "images": [
+            "https://phantom-elmundo.unidadeditorial.es/8fe6d780e0251b35511a1a4b96cf9102/resize/640/assets/multimedia/imagenes/2021/02/10/16129608465243.png"
+        ]
+    },
+    {
+        "id": 81,
+        "title": "Peine de Madera Antiestático",
+        "description": "Peine de madera natural que ayuda a prevenir el frizz y la electricidad estática en el cabello.",
+        "price": 7.99,
+        "stock": 40,
+        "brand": "WoodenWonders",
+        "category": "Accesorios",
+        "images": [
+            "https://m.media-amazon.com/images/I/61D5p82cRcL.jpg"
+        ]
+    },
+    {
+        "id": 82,
+        "title": "Esponja Exfoliante para la Ducha",
+        "description": "Esponja suave y exfoliante que limpia la piel y elimina las células muertas para una piel suave.",
+        "price": 5.50,
+        "stock": 35,
+        "brand": "BathBliss",
+        "category": "Accesorios",
+        "images": [
+            "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/a0f40db2-a74d-468c-bf55-13950e1a9077.296efe89b6bde0e384246022998be687.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+        ]
+    },
+    {
+        "id": 83,
+        "title": "Cepillo de Maquillaje Profesional",
+        "description": "Cepillo de cerdas suaves para una aplicación de maquillaje precisa y profesional.",
+        "price": 12.99,
+        "stock": 25,
+        "brand": "BeautyEssentials",
+        "category": "Accesorios",
+        "images": [
+            "https://s.libertaddigital.com/2021/01/04/brochas-de-maquillaje-ruesious-set-premium-de-10-piezas.jpg"
+        ]
+    },
+    {
+        "id": 84,
+        "title": "Bolsa Organizadora para Cosméticos",
+        "description": "Bolsa espaciosa con compartimentos para organizar y llevar tus productos de belleza a todas partes.",
+        "price": 17.75,
+        "stock": 20,
+        "brand": "GlamOnTheGo",
+        "category": "Accesorios",
+        "images": [
+            "https://http2.mlstatic.com/D_NQ_NP_926141-MLU71494331947_092023-O.webp"
+        ]
+    },
+    {
+        "id": 85,
+        "title": "Set de Pinzas para Depilación",
+        "description": "Pinzas de precisión para depilar con facilidad y obtener resultados precisos en la forma de las cejas.",
+        "price": 9.00,
+        "stock": 30,
+        "brand": "TweezeMaster",
+        "category": "Accesorios",
+        "images": [
+            "https://sfpanda.com.ar/images/product_image/13387/1?dpr=2.625&fit=contain&h=520&q=80&version=03602&w=400"
+        ]
+    },
+    {
+        "id": 86,
+        "title": "Repelente de Insectos en Spray",
+        "description": "Fórmula eficaz para mantener alejados a los mosquitos y otros insectos molestos.",
+        "price": 8.99,
+        "stock": 40,
+        "brand": "Off!",
+        "category": "Repelente",
+        "images": [
+            "https://cdn1.staticpanvel.com.br/produtos/15/96344-15.jpg"
+        ]
+    },
+    {
+        "id": 87,
+        "title": "Pulsera Repelente de Mosquitos",
+        "description": "Accesorio práctico que proporciona protección continua contra picaduras de mosquitos.",
+        "price": 5.50,
+        "stock": 35,
+        "brand": "MosquitoGuard",
+        "category": "Repelente",
+        "images": [
+            "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/5050565370679_1.jpg"
+        ]
+    },
+    {
+        "id": 88,
+        "title": "Repelente Natural a Base de Aceites Esenciales",
+        "description": "Fórmula natural que ahuyenta insectos con una mezcla de aceites esenciales.",
+        "price": 12.99,
+        "stock": 25,
+        "brand": "Badger",
+        "category": "Repelente",
+        "images": [
+            "https://www.kumir.pe/cdn/shop/products/Repelentenaturaldeinsectos_r090_a002_83d4702e-f532-4681-9e04-b0cfd3100ee2_1024x1024.jpg?v=1647436453"
+        ]
+    },
+    {
+        "id": 89,
+        "title": "Vela Repelente de Citronela",
+        "description": "Ambientador que repele mosquitos al aire libre, con fragancia agradable a citronela.",
+        "price": 15.75,
+        "stock": 20,
+        "brand": "Repelz-It",
+        "category": "Repelente",
+        "images": [
+            "https://i.pinimg.com/736x/03/e7/94/03e7942ea4164e5a2f522760a09cd5fa.jpg"
+        ]
+    },
+    {
+        "id": 90,
+        "title": "Repelente de Mosquitos en Aerosol",
+        "description": "Fórmula eficaz para mantener alejados a los mosquitos y otros insectos molestos.",
+        "price": 18.00,
+        "stock": 30,
+        "brand": "Off!",
+        "category": "Repelente",
+        "images": [
+            "https://www.farmacialeloir.com.ar/img/articulos/2020/11/off_repelente_extra_duracion_en_aerosol_imagen1.jpg",
+            "https://www.farmacialeloir.com.ar/img/articulos/2020/11/off_repelente_extra_duracion_en_aerosol_imagen1.jpg"
+        ]
+    }
+]
